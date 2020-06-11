@@ -8,6 +8,9 @@ Removing the need for a Runtime like Python to be Install on the Host Machine.
 
 ## How To Use.
 
+Once built and using the binarys or executables name.
+In this example the binarys name is quickfileserver.
+
 Example.
 ```bash
 quickfileserver -Port 80 -Dir .
